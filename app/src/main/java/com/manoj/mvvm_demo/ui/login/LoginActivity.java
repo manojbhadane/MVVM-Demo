@@ -18,6 +18,7 @@ import androidx.lifecycle.ViewModelProviders;
 
 // Tutorial referred : https://github.com/umangburman/MVVM-DataBinding-With-LiveData-Login
 
+
 public class LoginActivity extends AppCompatActivity {
 
     private LoginViewModel loginViewModel;
